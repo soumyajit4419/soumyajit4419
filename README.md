@@ -12,5 +12,6 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything, Excepts Maths :sweat_smile:
 - 📫 How to reach me: [@soumyajit4419](https://twitter.com/Soumyajit4419)
 - 😄 Pronouns: He/Him
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - ⚡ Fun fact: I directly jump to the code without even knowing its concepts.
 
