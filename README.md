@@ -17,3 +17,6 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: He/Him
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - ⚡ Fun fact: I directly jump to the code without even knowing its concepts.
+
+
+[![Soumyajit's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/soumyajit4419/github-readme-stats)
