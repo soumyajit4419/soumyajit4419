@@ -1,7 +1,13 @@
-### Hi there 👋 , **I'm Soumyajit**
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Soumyajit Behera</h1>
+
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 Here are some ideas to get you started: -->
+
+<img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
+
+ <br/>
+ 
 - 🔭 I’m currently working on `Deep Learning with Pytorch`
 - 🌱 I’m currently learning `Differential Privacy`
 - 👯 I’m looking to collaborate with `OpenMined`
@@ -18,6 +24,8 @@ Here are some ideas to get you started: -->
 <br />
 
 <div align="center">
+  <i><b>Github Stats</b></i>
+  <br/>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
 </div>
 
